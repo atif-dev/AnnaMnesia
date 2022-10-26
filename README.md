@@ -1,5 +1,5 @@
 # Hi 👋
-My name is Anna (some know me as An ,even smaller right?). I was working full time in Online Marketing but I decided that I want to study programming in between! C++ was my first language (don't ask why😊)and I'm currently pursuing a Full-Stack roadmap.
+My name is Anna (some know me as An , even smaller right?). I was working full time in Online Marketing but I decided that I want to study programming in between! C++ was my first language (don't ask why 😛) and I'm currently pursuing a Full-Stack roadmap.
 
 
 * 🌍  I'm based in Germany!
